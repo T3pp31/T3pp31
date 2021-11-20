@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Python and Netowork Lover!
 <!--
 **Fu-Te/Fu-Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
