@@ -1,12 +1,17 @@
 ### Hi there 👋
 I am Python and Network Lover!
+Python(2017~)
+Rust(2021/12/23~)
+
+- 🔭 I’m currently studying on Chuo university, department of Global infomatics.
+- 🌱 I’m currently learning Rust,Python,Network.
+- 📖 I'm going to go to Graduate school.
 <!--
 **Fu-Te/Fu-Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
