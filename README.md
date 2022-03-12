@@ -1,11 +1,12 @@
 ### Hi there 👋
-I am Python and Network Lover!
+I am Python, Network, Security Learner!
 Python(2017~)
 Rust(2021/12/23~)
 
 - 🔭 I’m currently studying on Chuo university, department of Global infomatics.
 - 🌱 I’m currently learning Rust,Python,Network.
 - 📖 I'm going to go to Graduate school.
+- TryHackMe: https://tryhackme.com/p/FuTe
 <!--
 **Fu-Te/Fu-Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
