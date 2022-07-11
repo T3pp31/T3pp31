@@ -3,7 +3,7 @@ I am Python, Network, Security Learner!
 Python(2017~)
 Rust(2021/12/23~)
 
-- 🔭 I’m currently studying at Chuo university, department of Global infomatics.
+- 🔭 I’m currently studying at Chuo university, faculty of Global infomatics.
 - 🌱 I’m currently learning Rust,Python,Network.
 - 📖 I'm going to go to Graduate school.
 - TryHackMe: https://tryhackme.com/p/FuTe
