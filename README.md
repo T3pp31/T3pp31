@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![fu-te's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fu-Te&theme=vue-dark&show_icons=true)](https://github.com/Fu-Te/github-readme-stats)
+[![T3pp31's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3pp31&theme=vue-dark&show_icons=true)](https://github.com/T3pp31/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fu-Te" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3pp31" />
 </a>
