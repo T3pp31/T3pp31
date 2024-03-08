@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am Python, Network, Security Learner!
+I am interested in Security, Network, Python, Rust...Linux.
 Python(2017~)
 Rust(2021/12/23~)
 
-- 🔭 I graduated at Chuo university, faculty of Global infomatics.
+- 🔭 I graduated at Chuo university, faculty of Global infomatics in 2023.
 - 🌱 I’m currently learning Rust,Python,Network.
-- 📖 I'm going to be engineer.
+- 📖 I'm engineer.
 - TryHackMe: https://tryhackme.com/p/FuTe
 - my_portfolio: https://raspberrypi4.tail6211f.ts.net/
 <!--
