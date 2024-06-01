@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,c,aws,django,discord,bots,docker,fastapi,flask,py,rust,ts)](https://skillicons.dev)
+
 [![T3pp31's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3pp31&theme=vue-dark&show_icons=true)](https://github.com/T3pp31/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3pp31" />
