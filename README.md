@@ -7,7 +7,7 @@ Rust(2021/12/23~)
 - 🌱 I’m currently learning Rust,Python,Network.
 - 📖 I'm engineer.
 - TryHackMe: https://tryhackme.com/p/FuTe
-- my_portfolio: https://portfolio.tail6211f.ts.net/
+- my_portfolio: https://t3pp31.github.io/
 <!--
 **Fu-Te/Fu-Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
