@@ -9,6 +9,12 @@ Rust(2021/12/23~)
 - TryHackMe: https://tryhackme.com/p/FuTe
 - my_portfolio: https://t3pp31.github.io/
 - CVE: [CVE-2026-75601](https://www.cve.org/CVERecord?id=CVE-2026-75601) — static-web-server `/metrics` auth bypass (Reporter / Fix)
+
+### 🏆 Kaggle
+
+
+### 📜 Certifications / 資格
+
 <!--
 **Fu-Te/Fu-Te** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
